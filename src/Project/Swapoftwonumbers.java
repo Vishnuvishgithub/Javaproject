@@ -4,7 +4,7 @@ public class Swapoftwonumbers {
 
 	public static void main(String[] args) {
 		
-		
+		// swapping using third variable
 		int x = 10;
 		int y = 20;
 		
@@ -15,6 +15,12 @@ public class Swapoftwonumbers {
 		System.out.println(x);
 		
 		System.out.println(y);
+		
+		
+		
+		
+		
+		
 		
 		
 	}
