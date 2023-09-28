@@ -14,8 +14,6 @@ public class Studentmarklist {
 
 		
 		sc.close();
-		
-		
-	}
 
+	}
 }
