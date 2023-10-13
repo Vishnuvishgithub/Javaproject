@@ -6,6 +6,7 @@ public class EvenOddfrom_Array {
 	
 		int a[]= {1,2,3,4,5,6};
 		
+		
 		//Extracting even nos 
 		System.out.println("Even numbers in array");
 		
@@ -25,6 +26,8 @@ public class EvenOddfrom_Array {
 				System.out.println(a[i]);
 			
 		}
+		
+		
 		
 		
 		
